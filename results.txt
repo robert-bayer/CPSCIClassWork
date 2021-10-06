@@ -1,0 +1,10 @@
+The string 'i like ice cream' has 9 characters that are not vowels in it.
+The string 'qwerty123' has 8 characters that are not vowels in it.
+The string 'fix the new line characters at the ends!' has 29 characters that are not vowels in it.
+The string 'independent program six.' has 17 characters that are not vowels in it.
+The string 'peanut butter' has 8 characters that are not vowels in it.
+The string 'applE jElly' has 8 characters that are not vowels in it.
+The string 'this is a sAmplE' has 11 characters that are not vowels in it.
+
+['i like ice cream', 'qwerty123', 'fix the new line characters at the ends!', 'independent program six.', 'peanut butter', 'applE jElly', 'this is a sAmplE']
+[9, 8, 29, 17, 8, 8, 11]

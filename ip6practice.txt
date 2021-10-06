@@ -1,0 +1,4 @@
+Spaces count as nonalpha
+so do the new lines
+at the end of lines
+that you get from files
